@@ -1,0 +1,91 @@
+p {
+	
+	color:white; 
+	font-family:Arial, Helvetica, sans-serif;
+		
+}
+h3 {
+	color:red;
+	font-family:Arial, Helvetica, sans-serif;
+	
+} 
+
+h1  { 
+	color:red;
+	font-family:Arial, Helvetica, sans-serif;
+	size: 100mm;
+} 
+
+h2   {
+     color: red;
+     
+}
+
+comment   {
+	color: red;
+
+}
+
+b   {
+	color: red;
+
+}
+
+i   {
+	color: red;
+
+}
+
+li  {
+	color: gray;
+
+}
+
+.ImagenPrincipal {
+	border-radius: 500px;
+	border: 500px;
+	align-content: center;
+
+}
+
+.ImagenCaracteristicas {
+	width:600px;
+	align-content: flex-end;
+}
+
+.bodyCaracter{
+	background-color: black;
+}
+
+body {
+	background-image: url("/assets/Fondo.webp");
+}
+
+.nav-enlace{
+	text-decoration: none;
+	display: inline-block;
+	background-color: cadetblue;
+	color: #fff;
+	padding: 10px 30px;
+}
+
+.nav-enlace:hover{
+	background-color:gray ;
+}
+
+nav {
+	background-color: firebrick;
+	padding: 10px;
+}
+
+.volver{
+	text-decoration: none;
+	display: inline-block;
+	background-color: cadetblue;
+	color: #fff;
+	padding: 10px 30px;
+}
+
+.volver:hover{
+	background-color:gray;
+}

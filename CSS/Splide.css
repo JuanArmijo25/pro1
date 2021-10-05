@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+    background-image: url("/assets/Fondo.webp");
+}  
+
+
+img {
+    border: red;
+    border-radius: 50px;
+    width: 1000px;
+    border-color: red;
+
+}
+
+.inhabilitar {
+    display: none;
+
+
+}
+
+.habilitar {
+    display: inline;
+
+
+}
+
+
